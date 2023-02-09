@@ -1,4 +1,4 @@
-### Meu nome é João e estou estudando: 
+### Meu nome é João e estou estudando com o foco em desenvolvimento Web 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
