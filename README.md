@@ -1,4 +1,4 @@
-### Meu nome é João e estou estudando com o foco em desenvolvimento Web 
+### Estudando com o foco em desenvolvimento Web 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
